@@ -1,2 +1,2 @@
 # PiMech2040-Hardware
-Hardware Repository for PiMech Boards
+Hardware Repository for PiMech Ecosystem
